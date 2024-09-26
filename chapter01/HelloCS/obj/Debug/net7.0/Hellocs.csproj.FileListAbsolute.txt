@@ -1,0 +1,14 @@
+C:\cs11dotnet7\chapter01\Hellocs\bin\Debug\net7.0\Hellocs.exe
+C:\cs11dotnet7\chapter01\Hellocs\bin\Debug\net7.0\Hellocs.deps.json
+C:\cs11dotnet7\chapter01\Hellocs\bin\Debug\net7.0\Hellocs.runtimeconfig.json
+C:\cs11dotnet7\chapter01\Hellocs\bin\Debug\net7.0\Hellocs.dll
+C:\cs11dotnet7\chapter01\Hellocs\bin\Debug\net7.0\Hellocs.pdb
+C:\cs11dotnet7\chapter01\Hellocs\obj\Debug\net7.0\Hellocs.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs11dotnet7\chapter01\Hellocs\obj\Debug\net7.0\Hellocs.AssemblyInfoInputs.cache
+C:\cs11dotnet7\chapter01\Hellocs\obj\Debug\net7.0\Hellocs.AssemblyInfo.cs
+C:\cs11dotnet7\chapter01\Hellocs\obj\Debug\net7.0\Hellocs.csproj.CoreCompileInputs.cache
+C:\cs11dotnet7\chapter01\Hellocs\obj\Debug\net7.0\Hellocs.dll
+C:\cs11dotnet7\chapter01\Hellocs\obj\Debug\net7.0\refint\Hellocs.dll
+C:\cs11dotnet7\chapter01\Hellocs\obj\Debug\net7.0\Hellocs.pdb
+C:\cs11dotnet7\chapter01\Hellocs\obj\Debug\net7.0\Hellocs.genruntimeconfig.cache
+C:\cs11dotnet7\chapter01\Hellocs\obj\Debug\net7.0\ref\Hellocs.dll
