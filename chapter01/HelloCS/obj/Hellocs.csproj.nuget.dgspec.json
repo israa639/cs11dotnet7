@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "c:\\cs11dotnet7\\chapter01\\Hellocs\\Hellocs.csproj": {}
+    "C:\\cs11dotnet7\\chapter01\\Hellocs\\Hellocs.csproj": {}
   },
   "projects": {
-    "c:\\cs11dotnet7\\chapter01\\Hellocs\\Hellocs.csproj": {
+    "C:\\cs11dotnet7\\chapter01\\Hellocs\\Hellocs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\cs11dotnet7\\chapter01\\Hellocs\\Hellocs.csproj",
+        "projectUniqueName": "C:\\cs11dotnet7\\chapter01\\Hellocs\\Hellocs.csproj",
         "projectName": "Hellocs",
-        "projectPath": "c:\\cs11dotnet7\\chapter01\\Hellocs\\Hellocs.csproj",
+        "projectPath": "C:\\cs11dotnet7\\chapter01\\Hellocs\\Hellocs.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
         "outputPath": "c:\\cs11dotnet7\\chapter01\\Hellocs\\obj\\",
         "projectStyle": "PackageReference",
