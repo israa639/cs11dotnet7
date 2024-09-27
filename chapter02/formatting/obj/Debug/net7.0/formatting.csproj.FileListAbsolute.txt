@@ -1,0 +1,15 @@
+C:\cs11dotnet7\chapter02\formatting\obj\Debug\net7.0\formatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs11dotnet7\chapter02\formatting\obj\Debug\net7.0\formatting.AssemblyInfoInputs.cache
+C:\cs11dotnet7\chapter02\formatting\obj\Debug\net7.0\formatting.AssemblyInfo.cs
+C:\cs11dotnet7\chapter02\formatting\obj\Debug\net7.0\formatting.csproj.CoreCompileInputs.cache
+C:\cs11dotnet7\chapter02\formatting\obj\Debug\net7.0\formatting.sourcelink.json
+C:\cs11dotnet7\chapter02\formatting\bin\Debug\net7.0\formatting.exe
+C:\cs11dotnet7\chapter02\formatting\bin\Debug\net7.0\formatting.deps.json
+C:\cs11dotnet7\chapter02\formatting\bin\Debug\net7.0\formatting.runtimeconfig.json
+C:\cs11dotnet7\chapter02\formatting\bin\Debug\net7.0\formatting.dll
+C:\cs11dotnet7\chapter02\formatting\bin\Debug\net7.0\formatting.pdb
+C:\cs11dotnet7\chapter02\formatting\obj\Debug\net7.0\formatting.dll
+C:\cs11dotnet7\chapter02\formatting\obj\Debug\net7.0\refint\formatting.dll
+C:\cs11dotnet7\chapter02\formatting\obj\Debug\net7.0\formatting.pdb
+C:\cs11dotnet7\chapter02\formatting\obj\Debug\net7.0\formatting.genruntimeconfig.cache
+C:\cs11dotnet7\chapter02\formatting\obj\Debug\net7.0\ref\formatting.dll
