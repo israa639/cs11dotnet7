@@ -5,7 +5,11 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vocabulary", "Vocabulary\Vocabulary.csproj", "{B4CC580A-4ED0-4A58-AFBC-8A21DE471700}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numbers", "Numbers\Numbers.csproj", "{AEAAEA35-22B4-4873-9B8E-5EF323745858}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Numbers", "Numbers\Numbers.csproj", "{AEAAEA35-22B4-4873-9B8E-5EF323745858}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "variables", "variables\variables.csproj", "{5ACEE522-5814-417F-8BCA-288A0F7A2EB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "formatting", "formatting\formatting.csproj", "{4D67569C-4CFD-4464-9BDD-89198CC63ABF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{AEAAEA35-22B4-4873-9B8E-5EF323745858}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEAAEA35-22B4-4873-9B8E-5EF323745858}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AEAAEA35-22B4-4873-9B8E-5EF323745858}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ACEE522-5814-417F-8BCA-288A0F7A2EB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ACEE522-5814-417F-8BCA-288A0F7A2EB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ACEE522-5814-417F-8BCA-288A0F7A2EB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ACEE522-5814-417F-8BCA-288A0F7A2EB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D67569C-4CFD-4464-9BDD-89198CC63ABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D67569C-4CFD-4464-9BDD-89198CC63ABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D67569C-4CFD-4464-9BDD-89198CC63ABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D67569C-4CFD-4464-9BDD-89198CC63ABF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
