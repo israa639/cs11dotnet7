@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\cs11dotnet7\\chapter01\\AboutMyEnvironment\\AboutMyEnvironment.csproj": {}
+    "c:\\cs11dotnet7\\chapter01\\AboutMyEnvironment\\AboutMyEnvironment.csproj": {}
   },
   "projects": {
-    "C:\\cs11dotnet7\\chapter01\\AboutMyEnvironment\\AboutMyEnvironment.csproj": {
+    "c:\\cs11dotnet7\\chapter01\\AboutMyEnvironment\\AboutMyEnvironment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\cs11dotnet7\\chapter01\\AboutMyEnvironment\\AboutMyEnvironment.csproj",
+        "projectUniqueName": "c:\\cs11dotnet7\\chapter01\\AboutMyEnvironment\\AboutMyEnvironment.csproj",
         "projectName": "AboutMyEnvironment",
-        "projectPath": "C:\\cs11dotnet7\\chapter01\\AboutMyEnvironment\\AboutMyEnvironment.csproj",
+        "projectPath": "c:\\cs11dotnet7\\chapter01\\AboutMyEnvironment\\AboutMyEnvironment.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
         "outputPath": "C:\\cs11dotnet7\\chapter01\\AboutMyEnvironment\\obj\\",
         "projectStyle": "PackageReference",

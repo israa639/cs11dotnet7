@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LT0sUs4FoZuTl+p8ge/TDgf5CMRIf4jBdhdJ+suKb+B2GljOJdfBvUAQs4kAt71IS6F5lK64pV1xE9gcEnZCxA==",
+  "dgSpecHash": "QkaHuqYH0Odo4O9zyPRuxl7VMOHL1aqNmIAvkHBcZXxiszqn9NOjUJGaVxRdTFpphSOA4foN7nmsx9ZDWMhGaQ==",
   "success": true,
-  "projectFilePath": "C:\\cs11dotnet7\\chapter01\\AboutMyEnvironment\\AboutMyEnvironment.csproj",
+  "projectFilePath": "c:\\cs11dotnet7\\chapter01\\AboutMyEnvironment\\AboutMyEnvironment.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",

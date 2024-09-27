@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NlPtWUHOVB+pwk91qdChdNMhz9OS8TVNKjJ7OvI4x8XCRmQTjLavbAcHl2D3HxEpPaqC5EYASxLC4gzALXIOHg==",
+  "dgSpecHash": "kpANcJ9eP6pFSCVxXL2/ady2gtQVUkDWlZ74Snv3M4I34XXEfqXQr05RDlSinuJmWcOphp9D+M671njt2ILXlg==",
   "success": true,
-  "projectFilePath": "C:\\cs11dotnet7\\chapter01\\Hellocs\\Hellocs.csproj",
+  "projectFilePath": "c:\\cs11dotnet7\\chapter01\\Hellocs\\Hellocs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
