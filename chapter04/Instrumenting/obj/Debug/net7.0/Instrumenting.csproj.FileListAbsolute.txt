@@ -1,0 +1,15 @@
+C:\cs11dotnet7\chapter04\Instrumenting\bin\Debug\net7.0\Instrumenting.exe
+C:\cs11dotnet7\chapter04\Instrumenting\bin\Debug\net7.0\Instrumenting.deps.json
+C:\cs11dotnet7\chapter04\Instrumenting\bin\Debug\net7.0\Instrumenting.runtimeconfig.json
+C:\cs11dotnet7\chapter04\Instrumenting\bin\Debug\net7.0\Instrumenting.dll
+C:\cs11dotnet7\chapter04\Instrumenting\bin\Debug\net7.0\Instrumenting.pdb
+C:\cs11dotnet7\chapter04\Instrumenting\obj\Debug\net7.0\Instrumenting.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs11dotnet7\chapter04\Instrumenting\obj\Debug\net7.0\Instrumenting.AssemblyInfoInputs.cache
+C:\cs11dotnet7\chapter04\Instrumenting\obj\Debug\net7.0\Instrumenting.AssemblyInfo.cs
+C:\cs11dotnet7\chapter04\Instrumenting\obj\Debug\net7.0\Instrumenting.csproj.CoreCompileInputs.cache
+C:\cs11dotnet7\chapter04\Instrumenting\obj\Debug\net7.0\Instrumenting.sourcelink.json
+C:\cs11dotnet7\chapter04\Instrumenting\obj\Debug\net7.0\Instrumenting.dll
+C:\cs11dotnet7\chapter04\Instrumenting\obj\Debug\net7.0\refint\Instrumenting.dll
+C:\cs11dotnet7\chapter04\Instrumenting\obj\Debug\net7.0\Instrumenting.pdb
+C:\cs11dotnet7\chapter04\Instrumenting\obj\Debug\net7.0\Instrumenting.genruntimeconfig.cache
+C:\cs11dotnet7\chapter04\Instrumenting\obj\Debug\net7.0\ref\Instrumenting.dll

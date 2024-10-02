@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7qK30h7ec1E7WQXPRVsaGwptrPm+ubG7Fov6FC5vJYx4+9CtFDuhv2O63S9xhy1QutncCdmCJMnUCOJw5Iht5g==",
+  "success": true,
+  "projectFilePath": "C:\\cs11dotnet7\\chapter04\\CalculatorLib\\CalculatorLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
