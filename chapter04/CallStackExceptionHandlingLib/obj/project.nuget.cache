@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9AjKT+9DnjMVMZx7tGj6Q94kkP1B0Wq6MDYG1TAPjuOk2Jua5S0yG2RhSmoUc12kwp1u9tBEcDx5JLgpCkqI/Q==",
+  "success": true,
+  "projectFilePath": "C:\\cs11dotnet7\\chapter04\\CallStackExceptionHandlingLib\\CallStackExceptionHandlingLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

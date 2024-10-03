@@ -5,13 +5,17 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WritingFunctions", "WritingFunctions\WritingFunctions.csproj", "{2A5CB9C2-5234-45C7-AE0B-6F816AA225C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Debugging", "Debugging\Debugging.csproj", "{CF495C90-AFBF-4369-906F-8453CEB4EEBF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Debugging", "Debugging\Debugging.csproj", "{CF495C90-AFBF-4369-906F-8453CEB4EEBF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Instrumenting", "Instrumenting\Instrumenting.csproj", "{C5869946-7717-46CD-A781-C17AA6C9D031}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Instrumenting", "Instrumenting\Instrumenting.csproj", "{C5869946-7717-46CD-A781-C17AA6C9D031}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorLib", "CalculatorLib\CalculatorLib.csproj", "{BDF99F68-8EAC-4ADD-BC66-CED0C49D88AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculatorLib", "CalculatorLib\CalculatorLib.csproj", "{BDF99F68-8EAC-4ADD-BC66-CED0C49D88AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorLibUnitTests", "CalculatorLibUnitTests\CalculatorLibUnitTests.csproj", "{6025500B-9FBF-4A01-BA56-F3FD23DDCD47}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculatorLibUnitTests", "CalculatorLibUnitTests\CalculatorLibUnitTests.csproj", "{6025500B-9FBF-4A01-BA56-F3FD23DDCD47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallStackExceptionHandlingLib", "CallStackExceptionHandlingLib\CallStackExceptionHandlingLib.csproj", "{6F4D1FCC-015F-4C4F-8084-E050EFDF680D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallStackExceptionHandling", "CallStackExceptionHandling\CallStackExceptionHandling.csproj", "{E6912CD9-74C2-4F2D-A88F-F43858874973}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{6025500B-9FBF-4A01-BA56-F3FD23DDCD47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6025500B-9FBF-4A01-BA56-F3FD23DDCD47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6025500B-9FBF-4A01-BA56-F3FD23DDCD47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F4D1FCC-015F-4C4F-8084-E050EFDF680D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F4D1FCC-015F-4C4F-8084-E050EFDF680D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F4D1FCC-015F-4C4F-8084-E050EFDF680D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F4D1FCC-015F-4C4F-8084-E050EFDF680D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6912CD9-74C2-4F2D-A88F-F43858874973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6912CD9-74C2-4F2D-A88F-F43858874973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6912CD9-74C2-4F2D-A88F-F43858874973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6912CD9-74C2-4F2D-A88F-F43858874973}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
