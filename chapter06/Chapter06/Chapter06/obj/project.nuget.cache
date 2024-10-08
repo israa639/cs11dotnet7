@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m7tTOxQ4VRi/TE3PJxRxhBZxFypZro1k2PAm2+KHLSZhAb+X705kFf/LUzMt5Q8jt/OtymWts2mh3O0IQ8cFCw==",
+  "dgSpecHash": "tM40iRsSUvpVDDUSDO4IUOtZA7iGxETcBHc1mMdUMCMa5nSpfzycXEKeaN9G8gNg19h1vISHkKAWrwgXsIZzfg==",
   "success": true,
-  "projectFilePath": "C:\\cs11dotnet7\\PacktLibrary\\Chapter06\\Chapter06\\Chapter06.csproj",
+  "projectFilePath": "C:\\cs11dotnet7\\chapter06\\Chapter06\\Chapter06\\Chapter06.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",

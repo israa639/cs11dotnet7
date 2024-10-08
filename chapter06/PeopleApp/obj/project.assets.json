@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\cs11dotnet7\\PacktLibrary\\PeopleApp\\PeopleApp.csproj",
+      "projectUniqueName": "C:\\cs11dotnet7\\chapter06\\PeopleApp\\PeopleApp.csproj",
       "projectName": "PeopleApp",
-      "projectPath": "C:\\cs11dotnet7\\PacktLibrary\\PeopleApp\\PeopleApp.csproj",
+      "projectPath": "C:\\cs11dotnet7\\chapter06\\PeopleApp\\PeopleApp.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\cs11dotnet7\\PacktLibrary\\PeopleApp\\obj\\",
+      "outputPath": "C:\\cs11dotnet7\\chapter06\\PeopleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\cs11dotnet7\\PacktLibrary\\Chapter06\\Chapter06\\Chapter06.csproj": {
-              "projectPath": "C:\\cs11dotnet7\\PacktLibrary\\Chapter06\\Chapter06\\Chapter06.csproj"
+            "C:\\cs11dotnet7\\chapter06\\Chapter06\\Chapter06\\Chapter06.csproj": {
+              "projectPath": "C:\\cs11dotnet7\\chapter06\\Chapter06\\Chapter06\\Chapter06.csproj"
             }
           }
         }

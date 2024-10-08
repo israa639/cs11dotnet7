@@ -10,3 +10,15 @@ C:\cs11dotnet7\PacktLibrary\Chapter06\Chapter06\obj\Debug\net7.0\Chapter06.dll
 C:\cs11dotnet7\PacktLibrary\Chapter06\Chapter06\obj\Debug\net7.0\refint\Chapter06.dll
 C:\cs11dotnet7\PacktLibrary\Chapter06\Chapter06\obj\Debug\net7.0\Chapter06.pdb
 C:\cs11dotnet7\PacktLibrary\Chapter06\Chapter06\obj\Debug\net7.0\ref\Chapter06.dll
+C:\cs11dotnet7\chapter06\Chapter06\Chapter06\bin\Debug\net7.0\Chapter06.deps.json
+C:\cs11dotnet7\chapter06\Chapter06\Chapter06\bin\Debug\net7.0\Chapter06.dll
+C:\cs11dotnet7\chapter06\Chapter06\Chapter06\bin\Debug\net7.0\Chapter06.pdb
+C:\cs11dotnet7\chapter06\Chapter06\Chapter06\obj\Debug\net7.0\Chapter06.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs11dotnet7\chapter06\Chapter06\Chapter06\obj\Debug\net7.0\Chapter06.AssemblyInfoInputs.cache
+C:\cs11dotnet7\chapter06\Chapter06\Chapter06\obj\Debug\net7.0\Chapter06.AssemblyInfo.cs
+C:\cs11dotnet7\chapter06\Chapter06\Chapter06\obj\Debug\net7.0\Chapter06.csproj.CoreCompileInputs.cache
+C:\cs11dotnet7\chapter06\Chapter06\Chapter06\obj\Debug\net7.0\Chapter06.sourcelink.json
+C:\cs11dotnet7\chapter06\Chapter06\Chapter06\obj\Debug\net7.0\Chapter06.dll
+C:\cs11dotnet7\chapter06\Chapter06\Chapter06\obj\Debug\net7.0\refint\Chapter06.dll
+C:\cs11dotnet7\chapter06\Chapter06\Chapter06\obj\Debug\net7.0\Chapter06.pdb
+C:\cs11dotnet7\chapter06\Chapter06\Chapter06\obj\Debug\net7.0\ref\Chapter06.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\cs11dotnet7\\PacktLibrary\\Chapter06\\Chapter06\\Chapter06.csproj",
+      "projectUniqueName": "C:\\cs11dotnet7\\chapter06\\Chapter06\\Chapter06\\Chapter06.csproj",
       "projectName": "Chapter06",
-      "projectPath": "C:\\cs11dotnet7\\PacktLibrary\\Chapter06\\Chapter06\\Chapter06.csproj",
+      "projectPath": "C:\\cs11dotnet7\\chapter06\\Chapter06\\Chapter06\\Chapter06.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\cs11dotnet7\\PacktLibrary\\Chapter06\\Chapter06\\obj\\",
+      "outputPath": "C:\\cs11dotnet7\\chapter06\\Chapter06\\Chapter06\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

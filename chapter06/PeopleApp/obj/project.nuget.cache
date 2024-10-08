@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cdwi/IvNedibUrcPbiUXptOHXc1AcWPhJap/H9SKYYdfiTEand7keP2t5SMzMXmW5A7hymn4x/9GH71W88VnMA==",
+  "dgSpecHash": "thc7LYl0uDG+34OCXgWW6hmeDXrGMlRjMO1MeFK+vg4ifwWdYV8tNoCQF9DkuXjsml4F1VFyj7YHiSlw+4HGOg==",
   "success": true,
-  "projectFilePath": "C:\\cs11dotnet7\\PacktLibrary\\PeopleApp\\PeopleApp.csproj",
+  "projectFilePath": "C:\\cs11dotnet7\\chapter06\\PeopleApp\\PeopleApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
