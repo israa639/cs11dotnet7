@@ -1,0 +1,6 @@
+C:\cs11dotnet7\AssembliesAndNamespaces\SharedLibrary\obj\Debug\net2.0\SharedLibrary.csproj.AssemblyReference.cache
+C:\cs11dotnet7\AssembliesAndNamespaces\SharedLibrary\obj\Debug\net2.0\SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs11dotnet7\AssembliesAndNamespaces\SharedLibrary\obj\Debug\net2.0\SharedLibrary.AssemblyInfoInputs.cache
+C:\cs11dotnet7\AssembliesAndNamespaces\SharedLibrary\obj\Debug\net2.0\SharedLibrary.AssemblyInfo.cs
+C:\cs11dotnet7\AssembliesAndNamespaces\SharedLibrary\obj\Debug\net2.0\SharedLibrary.csproj.CoreCompileInputs.cache
+C:\cs11dotnet7\AssembliesAndNamespaces\SharedLibrary\obj\Debug\net2.0\SharedLibrary.sourcelink.json

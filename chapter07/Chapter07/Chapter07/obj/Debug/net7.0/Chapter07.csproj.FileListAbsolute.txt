@@ -1,0 +1,5 @@
+C:\cs11dotnet7\AssembliesAndNamespaces\Chapter07\Chapter07\obj\Debug\net7.0\Chapter07.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs11dotnet7\AssembliesAndNamespaces\Chapter07\Chapter07\obj\Debug\net7.0\Chapter07.AssemblyInfoInputs.cache
+C:\cs11dotnet7\AssembliesAndNamespaces\Chapter07\Chapter07\obj\Debug\net7.0\Chapter07.AssemblyInfo.cs
+C:\cs11dotnet7\AssembliesAndNamespaces\Chapter07\Chapter07\obj\Debug\net7.0\Chapter07.csproj.CoreCompileInputs.cache
+C:\cs11dotnet7\AssembliesAndNamespaces\Chapter07\Chapter07\obj\Debug\net7.0\Chapter07.sourcelink.json
